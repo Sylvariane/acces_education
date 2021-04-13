@@ -1,5 +1,4 @@
-# Accès à l'éducation à travers le monde
-# Segmentation des pays sur la base de données éducatives et économique
+# Accès à l'éducation à travers le monde : Segmentation des pays sur la base de données éducatives et économique
 
 *Ce projet a été réalisé dans le cadre de la formation "Data Analyst" d'OpenClassrooms. Le but de ce projet était de choisir un thème de notre choix, de le traiter et de produire un rapport statistique pour un public non-spécialiste en data science.*
 
