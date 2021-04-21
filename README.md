@@ -12,7 +12,7 @@ La méthode choisie pour répondre à ce problème est la classification via des
 
 Notre étude a pu nous permettre de déterminer deux groupes de pays "à risque" : un groupe de pays contenant des pays nouvellement indépendants où la situation financière n'est pas catastrophe et un groupe de pays hébergeant de nombreux conflits. Parmi les solutions à adopter, l'accompagnement des pays nouvellement indépendants et la fin des conflits dans les pays en guerre semble être les solutions les plus adéquates. 
 
-*Le rapport de ce projet est disponible en format pdf et un dashboard a été crée avec les différentes variables utilisées pour la réalisation de l'étude*: [DashBoard] (https://public.tableau.com/views/Acceslducationtraverslemonde/Tableaudebord6?:language=fr&:display_count=y&:origin=viz_share_link)
+*Le rapport de ce projet est disponible en format pdf et un dashboard a été crée avec les différentes variables utilisées pour la réalisation de l'étude*: [DashBoard](https://public.tableau.com/views/Acceslducationtraverslemonde/Tableaudebord6?:language=fr&:display_count=y&:origin=viz_share_link)
 
 ## Syllabus
 
